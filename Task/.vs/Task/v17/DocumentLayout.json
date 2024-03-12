@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\genericscollections\\task\\task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|solutionrelative:task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\genericscollections\\task\\task\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|solutionrelative:task\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\genericscollections\\task\\task\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|solutionrelative:task\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\genericscollections\\task\\task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|solutionrelative:task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\genericscollections\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACEA44D-6179-4836-B187-E979F07948A7}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:22:24.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Task\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:55:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Task\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Task\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:46:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Task\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Task\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:52:23.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\GenericsCollections\\Task\\Task\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Task\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:30:38.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
